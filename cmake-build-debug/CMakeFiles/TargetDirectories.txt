@@ -1,0 +1,3 @@
+/Users/dlama/s/cmake-build-debug/CMakeFiles/s.dir
+/Users/dlama/s/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dlama/s/cmake-build-debug/CMakeFiles/rebuild_cache.dir
